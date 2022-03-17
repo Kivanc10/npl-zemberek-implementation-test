@@ -8,3 +8,6 @@ you can download zemberek-full.jar [from here](https://www.kaggle.com/egebasturk
 
 zemberek-full.jar's the path should be like that  ---> `ZEMBEREK_PATH = r'C:\Users\<your-user-name>\zemberek-full.jar'`
 
+
+- look at index.py file
+
