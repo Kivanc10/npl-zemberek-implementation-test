@@ -11,3 +11,6 @@ zemberek-full.jar's the path should be like that  ---> `ZEMBEREK_PATH = r'C:\Use
 
 - look at index.py file
 
+
+
+- test.csv is a copy of the word lists you created
